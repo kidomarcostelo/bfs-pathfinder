@@ -1,2 +1,2 @@
 # bfs-pathfinder
-Path finder using breadth first search
+This program finds a path from start to its destination using breadth first search algorithm.
